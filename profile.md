@@ -84,7 +84,9 @@ Ichiro Sakuma, ***Naoki Tomii***, Yuhei. Takata, Tatsuhiko Arafune, Takashi Yama
 
 ### 国内学会発表
 
-- ***Naoki Tomii***, Ichiro Sakuma, Tatsuhiko Arafune, Nitaro Shibata, Haruo Honjou, Kaichiro Kamiya, Itsuo Kodama. Study of spiral re-entry control by electrical stimulation using optical mapping system, Journal of Life Support Engineering, 20(supplement), pp135-135, 2008（口頭発表）
+Mari Amino, Masatoshi Yamazaki, Noboru Kawabe, Sachie Tanaka, Yoshiya Furusawa, Shimokawa Takashi, Ryoko Niwa, Haruo Honjo, ***Naoki Tomii***, Ichiro Sakuma, Yuji Ikari, Itsuo Kodama, Koichiro Yoshioka: Extracorporeal Heavy-ion Irradiation to Aged-rabbit with Hypercholesterolemia Express Atrial Antiarrhythmic Effects due to Upregulated Connexin Expression and Suppressed Nerve Sprouting, 第83回日本循環器学会学術集会，2019
+
+***Naoki Tomii***, Ichiro Sakuma, Tatsuhiko Arafune, Nitaro Shibata, Haruo Honjou, Kaichiro Kamiya, Itsuo Kodama. Study of spiral re-entry control by electrical stimulation using optical mapping system, Journal of Life Support Engineering, 20(supplement), pp135-135, 2008（口頭発表）
 
 - ***富井直輝***, 佐久間一郎, 荒船龍彦, 柴田仁太郎, 本荘晴朗, 神谷香一郎, 児玉逸雄：心臓活動電位マッピング法を用いた通電刺激によるスパイラルリエントリの制御に関する研究, 第６回生活支援工学系学会連合大会講演予稿集, pp135, 2008（口頭発表）
 
